@@ -1,5 +1,5 @@
 node_modules
-.vs/
+.vs
 build/
 logs/
 crypto_trading.sql
