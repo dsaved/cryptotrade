@@ -1,0 +1,52 @@
+{
+    "name": "CRYPTO-T",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "devStart": "nodemon app.js"
+    },
+    "bin": "app.js",
+    "pkg": {
+        "assets": [
+            "node_modules/**/*"
+        ],
+        "targets": [
+            "node12-win-x64"
+        ],
+        "predist": "yarn build && rm -rf node_modules/normalize.css",
+        "postdist": "yarn install"
+    },
+    "keywords": [],
+    "author": "Dsaved",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "bcrypt": "^5.0.0",
+        "convert-excel-to-json": "^1.7.0",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "debug": "^3.1.0",
+        "express": "^4.17.1",
+        "forever-monitor": "^1.7.1",
+        "fs": "0.0.1-security",
+        "moment": "^2.20.1",
+        "multer": "^1.4.2",
+        "mysql": "^2.18.1",
+        "nodemailer": "^6.4.17",
+        "pm2": "^4.5.6",
+        "read-excel-file": "^4.0.7",
+        "request": "^2.83.0",
+        "socket.io": "^3.1.2",
+        "storage": "^0.2.0",
+        "tor-axios": "^1.0.9",
+        "tor-request": "^3.1.0",
+        "underscore": "^1.8.3",
+        "worker-farm": "^1.7.0",
+        "ws": "^3.3.3",
+        "xlsx": "^0.16.7"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}

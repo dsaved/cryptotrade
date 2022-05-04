@@ -1,0 +1,13 @@
+download tor file for windows here: https://www.torproject.org/download/tor/
+or use the zip file in ./tor-win32-0.4.5.7.zip
+
+extrac the content to any folder
+add the folder path to your envirumental variable
+
+Enable Tor ControlPort
+tor --hash-password password-phrase
+exple code: 16:67D17E66CE55A9F860E84FAF881382A5D558269DBC62B3ED92CB23E5BA
+
+To install the service, simply run the command
+C:\Tor\tor.exe --service install -options ControlPort 9051
+tor --service install -options ControlPort 9051

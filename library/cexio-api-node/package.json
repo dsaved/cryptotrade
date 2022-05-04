@@ -1,0 +1,68 @@
+{
+  "_from": "cexio-api-node@^1.2.0",
+  "_id": "cexio-api-node@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-vqt4NxuDJbmCHXnKr1J0viefmJfW0BAo1vqHXXcVIJcYMs6Qs9TXztvlkqanGOq09h9mVQ3Y+xj/GWOdwuvunQ==",
+  "_location": "/cexio-api-node",
+  "_phantomChildren": {
+    "async-limiter": "1.0.1",
+    "safe-buffer": "5.1.2",
+    "ultron": "1.1.1"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cexio-api-node@^1.2.0",
+    "name": "cexio-api-node",
+    "escapedName": "cexio-api-node",
+    "rawSpec": "^1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cexio-api-node/-/cexio-api-node-1.2.0.tgz",
+  "_shasum": "d537adffc00512f316d7e1f2fbeec87f603c47ff",
+  "_spec": "cexio-api-node@^1.2.0",
+  "_where": "C:\\Users\\dsave\\Documents\\developments\\node\\cryptotrade",
+  "author": {
+    "name": "nedievas"
+  },
+  "bugs": {
+    "url": "https://github.com/nedievas/cexio-api-node/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "debug": "^3.1.0",
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3",
+    "ws": "^3.3.3"
+  },
+  "deprecated": false,
+  "description": "CEX.IO Trading API for Node.js",
+  "directories": {
+    "example": "examples"
+  },
+  "homepage": "https://github.com/nedievas/cexio-api-node#readme",
+  "keywords": [
+    "cex.io",
+    "nodejs",
+    "javascript",
+    "REST",
+    "Websocket",
+    "promises"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cexio-api-node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedievas/cexio-api-node.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
