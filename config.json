@@ -14,23 +14,23 @@
     "api_authentications": {
         "auth": {
             "userID": "up103242756",
-            "apiKey": "tPzLlPhspDnqYjEnN78rmfZAtE",
-            "apiSecret": "R2kiuUHVLW6kIxYm2r6XAtKPToE"
+            "apiKey": ""*************************************"",
+            "apiSecret": ""*************************************""
         },
         "auth2": {
             "userID": "up103242756",
-            "apiKey": "OoADTgPZ76eDPxIo1zeTT0FaE0I",
-            "apiSecret": "AaCJY2PEj3plhvOa4BS4qfiMU"
+            "apiKey": ""*************************************"",
+            "apiSecret": "*************************************"
         },
         "auth3": {
             "userID": "up103242756",
-            "apiKey": "Daqj1L1OWffmxrh2RXMzjT8DyZU",
-            "apiSecret": "UlRryydOwGxgyonEzu4qzyp9E"
+            "apiKey": ""*************************************"",
+            "apiSecret": ""*************************************""
         },
         "auth4": {
             "userID": "up103242756",
-            "apiKey": "hcd61vpL32wABRyVd5hHMjPfDU",
-            "apiSecret": "8p9YsVJBIPWNB9SIFRCVJC4pGb0"
+            "apiKey": ""*************************************"",
+            "apiSecret": ""*************************************""
         }
     }
 }
