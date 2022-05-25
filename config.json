@@ -6,29 +6,29 @@
         "host": "localhost",
         "user": "root",
         "password": "",
-        "database": "crypto_trading",
+        "database": "00000000000",
         "debug": false,
         "dateStrings": "date",
         "multipleStatements": true
     },
     "api_authentications": {
         "auth": {
-            "userID": "up103242756",
+            "userID": "00000000000",
             "apiKey": "*************************************",
             "apiSecret": "*************************************"
         },
         "auth2": {
-            "userID": "up103242756",
+            "userID": "00000000000",
             "apiKey": "*************************************"
             "apiSecret": "*************************************"
         },
         "auth3": {
-            "userID": "up103242756",
+            "userID": "00000000000",
             "apiKey": "*************************************"
             "apiSecret": "*************************************"
         },
         "auth4": {
-            "userID": "up103242756",
+            "userID": "00000000000",
             "apiKey": "*************************************"
             "apiSecret": "*************************************"
         }
